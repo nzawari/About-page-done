@@ -111,6 +111,7 @@ section a.btn {
   display: inline-block;
 }
 
+
 a.btn.cyan {
   background: var(--cyan-color);
   color: var(--dark-color);

@@ -38,7 +38,6 @@ const addActiveClass = (entries, observer) => {
     }
   });
 };
-
 const observer = new IntersectionObserver(addActiveClass, options);
 
 const sections = document.querySelectorAll("section");
